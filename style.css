@@ -1,0 +1,9 @@
+#box{
+    background: red;
+    width: 5vw;
+    height: 5vh;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    rotate: 40deg;
+}
